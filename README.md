@@ -277,11 +277,12 @@ test_data[333][1]
 ## Confusion Matrix
 <img width="519" alt="Screenshot 2025-04-19 at 11 01 08 AM" src="https://github.com/user-attachments/assets/dd60b133-580e-478f-a872-cad74d491cf4" />
 
+
 ## Classification Report
 <img width="578" alt="Screenshot 2025-04-19 at 11 07 23 AM" src="https://github.com/user-attachments/assets/f00ee6bc-5488-444a-a992-d8dbced03072" />
 
+
 ### New Sample Data Prediction
-Include your sample input and output here
 <img width="481" alt="Screenshot 2025-04-19 at 11 02 35 AM" src="https://github.com/user-attachments/assets/0d0d65e5-8e18-4a60-8270-8aacedc65a39" />
 
 ## RESULT
